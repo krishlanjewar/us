@@ -3,7 +3,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:us/profile/uiPages/login_page.dart';
 import 'package:us/profile/uiPages/profile_page.dart';
 // Import note pages
 import 'package:us/notes/pages/notes_list_page.dart';
