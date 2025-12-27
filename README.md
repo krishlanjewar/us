@@ -1,5 +1,5 @@
-# us
-# us 
+
+
 # 💑 Us – Couple Sync App (Flutter)
 
 **Us** is a Flutter-based couple app designed to help partners stay connected, organized, and in sync through shared utilities like notes, to-dos, and timers.
